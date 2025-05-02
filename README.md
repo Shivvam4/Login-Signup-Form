@@ -12,3 +12,6 @@ Responsive design for mobile, tablet, and desktop.
 Clean and minimal UI using the Poppins font.
 
 # Screenshot
+
+![image alt](https://github.com/Shivvam4/Login-Signup-Form/blob/main/Screenshot_1.png?raw=true)
+![image alt](https://github.com/Shivvam4/Login-Signup-Form/blob/main/Screenshot_2.png?raw=true)
